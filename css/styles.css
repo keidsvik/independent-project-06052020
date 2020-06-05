@@ -36,6 +36,23 @@ section {
   float: left;
 }
 
+.pythonimg {
+  max-width: 200px;
+  float: left;
+  margin-right: 15px;
+}
+
+.rubyimg {
+  border-radius: 50%;
+  max-width: 200px;
+  float: left;
+}
+
+.nothingimg {
+  float: left;
+  border-radius: 50%;
+}
+
 #results {
   margin-top: 50px;
   margin-bottom: 100px;

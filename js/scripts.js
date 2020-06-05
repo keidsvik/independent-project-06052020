@@ -7,12 +7,12 @@ $(document).ready(function() {
     const beverage = $("select#beverage").val();
     const meal = $("select#meal").val();
 
-    if (color === 'red' && animal === 'eels' && whereyoulive === 'portland' && beverage === 'blood'&& meal === 'hotdoggelatin') {
+    if (color === 'red' && animal === 'eels' && whereyoulive === 'portland' && beverage === 'nugget'&& meal === 'hotdoggelatin') {
     $("#swift").show();
     } else if (color === 'green' && animal === 'miniaturedonkey' && whereyoulive === 'quiveringwomb' && beverage === 'hoticecream' && meal === 'gravy') {
     $("#python").show();
     } else if (color === 'blue' && animal === 'pig' && whereyoulive === 'dancingqueen' && beverage === 'milknwhiskey' && meal === 'milkmeal') {
-    $("#go").show();
+    $("#ruby").show();
     } else {
     $("#nothing").show();
     }
