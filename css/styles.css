@@ -1,3 +1,22 @@
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  font-family: 'Vidaloka', serif;
+}
+
+section {
+  margin: 100px;
+  margin-bottom: 100px;
+  border: none !important;
+}
+
 .answer {
   display: none;
+}
+
+#results {
+  margin-left: 100px;
+
 }
