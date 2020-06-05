@@ -30,7 +30,13 @@ section {
   display: none;
 }
 
-#results {
-  margin-left: 100px;
+.swiftimg {
+  border-radius: 50%;
+  max-width: 200px;
+  float: left;
+}
 
+#results {
+  margin-top: 50px;
+  margin-bottom: 100px;
 }
