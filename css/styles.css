@@ -4,6 +4,20 @@ body {
 
 h1 {
   font-family: 'Vidaloka', serif;
+  float: right;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.wrapit {
+  float: right;
+  font-size: 150px;
+}
+
+.wrapit2 {
+  float: right;
+  font-size: 150px;
 }
 
 section {
