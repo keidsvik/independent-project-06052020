@@ -11,7 +11,7 @@ A webpage with five questions that are meant to determine which programming lang
 ## Setup/Installation Requirements
 
 #### Open by downloading:
-1. Download or clone this repository from GitHub.
+1. Download or clone this repository from GitHub [here](https://github.com/keidsvik/independent-project-06052020)
 2. Once on your machine, double-click on index.html to open in your default browser.
 
 #### Open with Bash/GitBash:
