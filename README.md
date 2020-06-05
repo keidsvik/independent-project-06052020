@@ -38,6 +38,6 @@ _Email no one with any questions, comments, or concerns._
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_{Kelly Eidsvik}_**
+Copyright (c) 2020 **_Kelly Eidsvik_**
