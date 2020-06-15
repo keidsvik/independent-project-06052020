@@ -1,5 +1,7 @@
 $(document).ready(function() {
   $('form#quiz').submit(function(event) {
+      $(".answer").hide();
+    
 
     const color = $("input:radio[name=color]:checked").val();
     const animal = $("input:radio[name=animal]:checked").val();
@@ -15,6 +17,7 @@ $(document).ready(function() {
     $("#ruby").show();
     } else {
     $("#nothing").show();
+
     }
     event.preventDefault();
   });
